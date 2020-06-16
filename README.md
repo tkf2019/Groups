@@ -1,5 +1,5 @@
 # 计9 3暑期兴趣小组
-
+报名截止到明天晚上23：59
 ## ESER
 
 <img src="images\3.jpg" alt="ESER" style="zoom:25%;" />
